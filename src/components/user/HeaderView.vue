@@ -1,7 +1,7 @@
 <script setup></script>
 <template>
   <header class="max-w-7xl flex items-center justify-between m-auto border-b pb-2 mt-16">
-    <h1 class="font-general-semibold ps-2 xl:ps-0">FYRRE MAGAZINE</h1>
+    <h1 class="font-general-semibold ps-2 xl:ps-0">PULSE MAGAZINE</h1>
     <nav class="sm:flex items-center justify-between gap-5 hidden">
       <ul class="flex items-center justify-between gap-5 cursor-pointer">
         <li><a href="#">Magazine</a></li>

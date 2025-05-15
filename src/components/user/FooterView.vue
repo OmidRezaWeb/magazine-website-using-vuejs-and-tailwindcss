@@ -36,7 +36,7 @@
     </div>
     <!-- footer menu -->
     <div class="flex flex-col md:flex-row items-start justify-start gap-10 md:gap-28 max-w-7xl m-auto p-5">
-      <h3 class="font-general-medium text-xl">FYRRE MAGAZINE</h3>
+      <h3 class="font-general-medium text-xl xl:w-72">PULSE MAGAZINE</h3>
       <div class="flex flex-col lg:flex-row items-center justify-center gap-10 w-full">
         <ul class="border-t border-neutral-800 w-full lg:w-52 pt-5 flex flex-col gap-5">
           <li><a href="#" class="text-neutral-400">Art </a></li>
